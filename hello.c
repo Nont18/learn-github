@@ -7,6 +7,7 @@ int main(){
     printf("Enter age : ");
     scanf("%d",&age);
     printf("Your age is %d\n",age);
+    printf("Now Loading...");
     for(i=0;i<=5;i++){
         printf("%d\n",age+1);
         age++;
