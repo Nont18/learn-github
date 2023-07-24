@@ -8,7 +8,7 @@ int main(){
     scanf("%d",&age);
     printf("Your age is %d\n",age);
     printf("Now Loading...");
-    printf("Just you wait.....");
+    printf("Just you wait");
     for(i=0;i<=5;i++){
         printf("%d\n",age+1);
         age++;
